@@ -1,4 +1,4 @@
-# Cartagena-Potholes-Locator-College-project-
+# Cartagena Potholes Locator (College-project)
 
 ![SCREENSHOT](screenshot.png)
 
